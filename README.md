@@ -1,4 +1,4 @@
-# XRL / LootLARP
+# XRL
 ***A platform for collective worldmaking & gamified real world experiences***
 
 Hi everyone! We are **XRL Labs** and we’re excited to share what we’ve been working on with you all.
